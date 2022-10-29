@@ -8,7 +8,7 @@ This repository contains supplementary materials for the seminar on visual trans
 
 ## Materials
 
-- [Jupyter notebook]("ViT demonstration.ipynb")
+- [Jupyter notebook](ViT%20demonstration.ipynb)
 - [Slides](slides.pdf)
 
 > If you notice any inaccuracies, mistakes or errors, feel free to submit a pull request.
